@@ -70,6 +70,9 @@ Node.js
 PostgreSQL (Neon)  
 Spoonacular API  
 
+GitHub Repo  
+https://github.com/namkyeongkim/Pantry-recipe-computer-sci-project
+
 ---
 
 ## 🧠 Tech Stack
@@ -83,12 +86,13 @@ Spoonacular API
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data%20Augmentation-SMOTE-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/SMOTE-Data%20Augmentation-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/K--mer-Feature%20Engineering-green?style=flat-square"/>
 
 ### Backend & Database
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
 
 ### Frontend & Mobile
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -96,8 +100,8 @@ Spoonacular API
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/>
 
 ### Tools
-<img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square"/>
 
 ---
@@ -122,3 +126,5 @@ Spoonacular API
 
 LinkedIn  
 https://www.linkedin.com/in/namkyeong-kim-7a25aa3b6
+
+![Profile views](https://komarev.com/ghpvc/?username=namkyeongkim)
