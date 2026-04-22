@@ -3,7 +3,7 @@
 # Hi, I'm Namkyeong Kim 👋
 
 Computer Science Senior at **Arkansas State University**  
-Interested in **Machine Learning, Data Science, and Artificial Intelligence**
+Interested in **Machine Learning, Data Science, Artificial Intelligence, and Software Engineering**
 
 📄 Published Author – **ACM BCB 2025**
 
@@ -11,7 +11,7 @@ Interested in **Machine Learning, Data Science, and Artificial Intelligence**
 
 ## 👩‍💻 About Me
 
-I am a Computer Science student passionate about applying machine learning and data science to real-world problems.
+I am a Computer Science student focused on building data-driven applications and applying machine learning to real-world problems.
 
 My interests include:
 
@@ -19,8 +19,9 @@ My interests include:
 - Artificial Intelligence
 - Data Science
 - Bioinformatics
+- Full-Stack Development
 
-I enjoy building intelligent systems and exploring data-driven solutions for complex problems.
+I enjoy creating practical systems, exploring complex datasets, and turning ideas into scalable solutions.
 
 ---
 
@@ -28,50 +29,55 @@ I enjoy building intelligent systems and exploring data-driven solutions for com
 
 ### Antimicrobial Resistance (AMR) Prediction using Machine Learning
 
-This research explores machine learning approaches for predicting antimicrobial resistance (AMR) phenotypes from genomic data.
+Conducted research on predicting antimicrobial resistance phenotypes from genomic data using machine learning and deep learning techniques.
 
-Key components include:
+### Key Components
 
 - k-mer based genomic feature extraction
-- Tree-based ensemble models (Random Forest, Extra Trees, XGBoost)
-- Deep learning using a **1D Convolutional Neural Network (CNN)**
+- Tree-based ensemble models (**Random Forest, Extra Trees, XGBoost**)
+- Deep learning with **1D Convolutional Neural Networks (CNN)**
 - Data augmentation using **SMOTE**
+- Hyperparameter optimization and model evaluation
 
-The study demonstrates that:
+### Outcomes
 
-- Tree-based models perform well with limited genomic data
-- CNN models combined with data augmentation significantly improve prediction performance
+- Tree-based models performed strongly on limited genomic datasets
+- CNN models with augmentation improved generalization performance
+- Comparative benchmarking using precision, recall, and F1-score
 
 📄 **Published at ACM BCB Companion 2025**  
 ACM International Conference on Bioinformatics, Computational Biology and Health Informatics
 
-https://doi.org/10.1145/3768322.3769015
+🔗 https://doi.org/10.1145/3768322.3769015
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### Smart Pantry Manager
+### Smart Pantry Platform
 
-Full-stack pantry and recipe management mobile application.
+Full-stack pantry and recipe management application designed to simplify food inventory and meal planning.
 
-Features:
+### Features
 
 - Pantry inventory tracking
-- Recipe recommendation based on available ingredients
-- Shared family pantry
-- Automatic ingredient deduction
+- Recipe recommendations based on available ingredients
+- Shared household pantry management
+- Automatic ingredient deduction after cooking
 - Barcode scanning for ingredient management
+- Auto-generated shopping lists
+- Admin analytics dashboard
 
-Tech Stack:
+### Tech Stack
 
 React Native (Expo)  
+React  
 Node.js  
-PostgreSQL (Neon)  
-Spoonacular API  
+Express.js  
+PostgreSQL  
+Spoonacular API
 
-GitHub Repo  
-https://github.com/namkyeongkim/Pantry-recipe-computer-sci-project
+🔗 https://github.com/namkyeongkim/smart-pantry-platform
 
 ---
 
@@ -81,13 +87,14 @@ https://github.com/namkyeongkim/Pantry-recipe-computer-sci-project
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 
 ### Machine Learning & Data Science
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
-<img src="https://img.shields.io/badge/SMOTE-Data%20Augmentation-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/K--mer-Feature%20Engineering-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 
 ### Backend & Database
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -102,15 +109,17 @@ https://github.com/namkyeongkim/Pantry-recipe-computer-sci-project
 ### Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square"/>
 
 ---
 
 ## 🌱 Currently Learning
 
-- Deep Learning
-- Machine Learning Engineering
+- Deep Learning Engineering
+- Machine Learning Deployment
 - Data Pipelines
+- Cloud-Based Analytics
 
 ---
 
@@ -124,7 +133,10 @@ https://github.com/namkyeongkim/Pantry-recipe-computer-sci-project
 
 ## 📫 Contact
 
-LinkedIn  
+🔗 LinkedIn  
 https://www.linkedin.com/in/namkyeong-kim-7a25aa3b6
+
+📧 Email  
+namkyeong0319@gmail.com
 
 ![Profile views](https://komarev.com/ghpvc/?username=namkyeongkim)
