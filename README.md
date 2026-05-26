@@ -3,25 +3,28 @@
 # Hi, I'm Namkyeong Kim 👋
 
 Computer Science Senior at **Arkansas State University**  
-Interested in **Machine Learning, Data Science, Artificial Intelligence, and Software Engineering**
+Focused on **Machine Learning, Data Analytics, AI-driven Systems, and Full-Stack Application Development**
 
 📄 Published Author – **ACM BCB 2025**
+
+📁 Portfolio  
+https://github.com/namkyeongkim/portfolio
 
 ---
 
 ## 👩‍💻 About Me
 
-I am a Computer Science student focused on building data-driven applications and applying machine learning to real-world problems.
+Computer Science student experienced in developing analytics-driven applications, machine learning workflows, and full-stack systems integrating real-time data processing and visualization.
 
-My interests include:
+Interested in:
 
 - Machine Learning
 - Artificial Intelligence
-- Data Science
+- Data Analytics
 - Bioinformatics
 - Full-Stack Development
 
-I enjoy creating practical systems, exploring complex datasets, and turning ideas into scalable solutions.
+Experienced working with large-scale datasets, predictive modeling workflows, analytics dashboards, and real-time application systems.
 
 ---
 
@@ -30,6 +33,8 @@ I enjoy creating practical systems, exploring complex datasets, and turning idea
 ### Antimicrobial Resistance (AMR) Prediction using Machine Learning
 
 Conducted research on predicting antimicrobial resistance phenotypes from genomic data using machine learning and deep learning techniques.
+
+Processed and analyzed **500,000+ genomic records** for antimicrobial resistance prediction workflows.
 
 ### Key Components
 
@@ -56,17 +61,18 @@ ACM International Conference on Bioinformatics, Computational Biology and Health
 
 ### Smart Pantry Platform
 
-Full-stack pantry and recipe management application designed to simplify food inventory and meal planning.
+Full-stack pantry and recipe management platform integrating analytics dashboards, recommendation workflows, and real-time inventory synchronization.
 
 ### Features
 
 - Pantry inventory tracking
-- Recipe recommendations based on available ingredients
+- Recipe recommendation workflows
 - Shared household pantry management
 - Automatic ingredient deduction after cooking
-- Barcode scanning for ingredient management
+- Barcode scanning integration
 - Auto-generated shopping lists
-- Admin analytics dashboard
+- Analytics dashboard and visualization modules
+- Real-time pantry synchronization
 
 ### Tech Stack
 
@@ -76,6 +82,13 @@ Node.js
 Express.js  
 PostgreSQL  
 Spoonacular API
+
+### Additional Highlights
+
+- Built React/Vite analytics dashboards for pantry activity and recommendation workflows
+- Integrated PostgreSQL inventory workflows with recommendation systems
+- Developed REST APIs supporting real-time inventory updates and synchronization
+- Implemented persistent login sessions and offline support features
 
 🔗 https://github.com/namkyeongkim/smart-pantry-platform
 
