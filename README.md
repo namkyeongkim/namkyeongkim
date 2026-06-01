@@ -3,28 +3,68 @@
 # Hi, I'm Namkyeong Kim 👋
 
 Computer Science Senior at **Arkansas State University**  
-Focused on **Machine Learning, Data Analytics, AI-driven Systems, and Full-Stack Application Development**
+Focused on **Data Analytics, Machine Learning, AI-driven Systems, and Full-Stack Application Development**
 
-📄 Published Author – **ACM BCB 2025**
-
-📁 Portfolio  
-https://github.com/namkyeongkim/portfolio
+📄 Published Author – **ACM BCB 2025**  
+📁 Portfolio: https://github.com/namkyeongkim/portfolio
 
 ---
 
 ## 👩‍💻 About Me
 
-Computer Science student experienced in developing analytics-driven applications, machine learning workflows, and full-stack systems integrating real-time data processing and visualization.
+Computer Science senior with experience in **data analytics, machine learning, and full-stack application development**.
 
-Interested in:
+Experienced in analyzing large datasets, building interactive dashboards, developing predictive modeling workflows, and creating data-driven applications using **Python, SQL, Tableau, Pandas, and machine learning techniques**.
 
+My work includes healthcare analytics, antimicrobial resistance prediction research, and full-stack application development. I enjoy transforming complex data into actionable insights and building solutions that support data-driven decision making.
+
+**Interests**
+- Data Analytics
+- Business Intelligence
 - Machine Learning
 - Artificial Intelligence
-- Data Analytics
+- Healthcare Analytics
 - Bioinformatics
-- Full-Stack Development
 
-Experienced working with large-scale datasets, predictive modeling workflows, analytics dashboards, and real-time application systems.
+---
+
+## 🚀 Featured Projects
+
+### Healthcare Readmission Risk Analysis
+
+Healthcare analytics project analyzing factors associated with 30-day hospital readmissions using Python and Tableau.
+
+**Highlights**
+- Analyzed **11,001 hospitalization records**
+- Identified key readmission risk factors including age, Charlson Comorbidity Index, ICU admission, and chronic kidney disease
+- Created Tableau dashboard to visualize readmission patterns and risk factors
+- Performed exploratory data analysis using Python, Pandas, and Matplotlib
+
+**Tech Stack**  
+Python · Pandas · Matplotlib · Jupyter Notebook · Tableau
+
+🔗 https://github.com/namkyeongkim/healthcare-readmission-analysis
+
+---
+
+### Smart Pantry Platform
+
+Full-stack pantry and recipe management platform integrating analytics dashboards, recommendation workflows, and real-time inventory synchronization.
+
+**Features**
+- Pantry inventory tracking
+- Recipe recommendation workflows
+- Shared household pantry management
+- Automatic ingredient deduction after cooking
+- Barcode scanning integration
+- Auto-generated shopping lists
+- Analytics dashboard and visualization modules
+- Real-time pantry synchronization
+
+**Tech Stack**  
+React Native (Expo) · React · Node.js · Express.js · PostgreSQL · Spoonacular API
+
+🔗 https://github.com/namkyeongkim/smart-pantry-platform
 
 ---
 
@@ -36,61 +76,17 @@ Conducted research on predicting antimicrobial resistance phenotypes from genomi
 
 Processed and analyzed **500,000+ genomic records** for antimicrobial resistance prediction workflows.
 
-### Key Components
-
+**Key Components**
 - k-mer based genomic feature extraction
 - Tree-based ensemble models (**Random Forest, Extra Trees, XGBoost**)
 - Deep learning with **1D Convolutional Neural Networks (CNN)**
 - Data augmentation using **SMOTE**
 - Hyperparameter optimization and model evaluation
 
-### Outcomes
-
-- Tree-based models performed strongly on limited genomic datasets
-- CNN models with augmentation improved generalization performance
-- Comparative benchmarking using precision, recall, and F1-score
-
 📄 **Published at ACM BCB Companion 2025**  
 ACM International Conference on Bioinformatics, Computational Biology and Health Informatics
 
 🔗 https://doi.org/10.1145/3768322.3769015
-
----
-
-## 🚀 Featured Projects
-
-### Smart Pantry Platform
-
-Full-stack pantry and recipe management platform integrating analytics dashboards, recommendation workflows, and real-time inventory synchronization.
-
-### Features
-
-- Pantry inventory tracking
-- Recipe recommendation workflows
-- Shared household pantry management
-- Automatic ingredient deduction after cooking
-- Barcode scanning integration
-- Auto-generated shopping lists
-- Analytics dashboard and visualization modules
-- Real-time pantry synchronization
-
-### Tech Stack
-
-React Native (Expo)  
-React  
-Node.js  
-Express.js  
-PostgreSQL  
-Spoonacular API
-
-### Additional Highlights
-
-- Built React/Vite analytics dashboards for pantry activity and recommendation workflows
-- Integrated PostgreSQL inventory workflows with recommendation systems
-- Developed REST APIs supporting real-time inventory updates and synchronization
-- Implemented persistent login sessions and offline support features
-
-🔗 https://github.com/namkyeongkim/smart-pantry-platform
 
 ---
 
@@ -102,12 +98,16 @@ Spoonacular API
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 
-### Machine Learning & Data Science
+### Data Analytics & Visualization
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+
+### Machine Learning
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 
 ### Backend & Database
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -127,10 +127,18 @@ Spoonacular API
 
 ---
 
+## 📜 Certifications
+
+- SQLD (SQL Developer)
+- ADsP (Advanced Data Analytics Semi-Professional)
+
+---
+
 ## 🌱 Currently Learning
 
-- Deep Learning Engineering
-- Machine Learning Deployment
+- Advanced SQL
+- Tableau Dashboard Design
+- Machine Learning
 - Data Pipelines
 - Cloud-Based Analytics
 
