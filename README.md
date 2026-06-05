@@ -3,7 +3,7 @@
 # Hi, I'm Namkyeong Kim 👋
 
 Computer Science Senior at **Arkansas State University**  
-Focused on **Data Analytics, Machine Learning, AI-driven Systems, and Full-Stack Application Development**
+Focused on **Data Analytics, Business Intelligence, Machine Learning, and Data-Driven Decision Making**
 
 📄 Published Author – **ACM BCB 2025**  
 📁 Portfolio: https://github.com/namkyeongkim/portfolio
@@ -12,19 +12,20 @@ Focused on **Data Analytics, Machine Learning, AI-driven Systems, and Full-Stack
 
 ## 👩‍💻 About Me
 
-Computer Science senior with experience in **data analytics, machine learning, and full-stack application development**.
+Computer Science senior with experience in **data analytics, machine learning, healthcare analytics, and full-stack application development**.
 
-Experienced in analyzing large datasets, building interactive dashboards, developing predictive modeling workflows, and creating data-driven applications using **Python, SQL, Tableau, Pandas, and machine learning techniques**.
+Experienced in analyzing large datasets, developing predictive models, building interactive dashboards, and creating data-driven applications using **Python, SQL, Tableau, Pandas, Scikit-learn, and machine learning techniques**.
 
-My work includes healthcare analytics, antimicrobial resistance prediction research, and full-stack application development. I enjoy transforming complex data into actionable insights and building solutions that support data-driven decision making.
+My work includes healthcare analytics, antimicrobial resistance prediction research, dashboard development, and full-stack application design. I enjoy transforming complex datasets into actionable insights and supporting data-driven decision making through analytics and visualization.
 
-**Interests**
+### Interests
+
 - Data Analytics
 - Business Intelligence
 - Machine Learning
-- Artificial Intelligence
 - Healthcare Analytics
-- Bioinformatics
+- Predictive Modeling
+- Data Visualization
 
 ---
 
@@ -32,16 +33,18 @@ My work includes healthcare analytics, antimicrobial resistance prediction resea
 
 ### Healthcare Readmission Risk Analysis
 
-Healthcare analytics project analyzing factors associated with 30-day hospital readmissions using Python and Tableau.
+Healthcare analytics project analyzing factors associated with 30-day hospital readmissions using Python, SQL, Tableau, and machine learning.
 
 **Highlights**
 - Analyzed **11,001 hospitalization records**
-- Identified key readmission risk factors including age, Charlson Comorbidity Index, ICU admission, and chronic kidney disease
-- Created Tableau dashboard to visualize readmission patterns and risk factors
+- Identified key readmission risk factors including age, Charlson Comorbidity Index, ICU admission, chronic kidney disease, and length of stay
+- Built an enhanced Tableau dashboard with KPI cards, risk factor analysis, and financial impact metrics
 - Performed exploratory data analysis using Python, Pandas, and Matplotlib
+- Conducted SQL-based healthcare analytics using SQLite
+- Developed machine learning models to predict 30-day readmission risk and addressed class imbalance
 
 **Tech Stack**  
-Python · Pandas · Matplotlib · Jupyter Notebook · Tableau
+Python · SQL · Pandas · Matplotlib · Scikit-learn · Jupyter Notebook · Tableau · SQLite
 
 🔗 https://github.com/namkyeongkim/healthcare-readmission-analysis
 
@@ -92,36 +95,46 @@ ACM International Conference on Bioinformatics, Computational Biology and Health
 
 ## 🧠 Tech Stack
 
-### Languages
+### Data Analytics & Business Intelligence
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+
+### Machine Learning & Predictive Analytics
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
+
+### Databases
+
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+
+### Programming Languages
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
 
-### Data Analytics & Visualization
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+### Full-Stack Development
 
-### Machine Learning
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
-
-### Backend & Database
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-
-### Frontend & Mobile
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=React&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
 
 ### Tools
+
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square"/>
 
@@ -136,19 +149,11 @@ ACM International Conference on Bioinformatics, Computational Biology and Health
 
 ## 🌱 Currently Learning
 
-- Advanced SQL
+- Advanced SQL & Query Optimization
 - Tableau Dashboard Design
-- Machine Learning
-- Data Pipelines
-- Cloud-Based Analytics
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=namkyeongkim&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namkyeongkim&layout=compact)
+- Predictive Analytics
+- Machine Learning for Healthcare
+- Cloud Data Analytics (AWS)
 
 ---
 
