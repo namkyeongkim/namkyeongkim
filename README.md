@@ -7,7 +7,6 @@ Computer Science Senior at **Arkansas State University**
 Focused on **Data Analytics, Business Intelligence, Machine Learning, and Data-Driven Decision Making**
 
 📄 Published Author – **ACM BCB 2025**  
-📁 Portfolio: https://github.com/namkyeongkim/portfolio
 
 ---
 
