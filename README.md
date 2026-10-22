@@ -15,13 +15,13 @@
 
 I'm a Computer Science graduate with experience spanning software development, machine learning research, data analytics, and cloud infrastructure.
 
-My work ranges from developing mobile applications and analyzing large datasets to supporting the development and deployment of production-oriented services.
+My experience includes developing mobile applications, analyzing large datasets, designing database structures, and supporting cloud-based service deployment.
 
-At **Bredis Healthcare**, I work with AI-assisted development tools such as **Claude Code** to build and test features for a mobile cognitive training platform. My experience includes user authentication, subscription and in-app purchase integration, Unity WebGL testing, and AWS infrastructure setup.
+At **Bredis Healthcare**, I use AI-assisted development tools such as **Claude Code** throughout the development of a mobile cognitive training platform. My work includes authentication, in-app purchases, Unity WebGL integration testing, and AWS infrastructure setup.
 
-I have also worked on clinical research data standardization and database schema design, as well as machine learning research involving antimicrobial resistance prediction.
+I have also worked on Alzheimer's disease research data standardization and database schema design, alongside machine learning research in antimicrobial resistance prediction.
 
-I enjoy understanding how systems work, identifying technical problems, and turning ideas into functional, testable solutions.
+I enjoy solving technical problems, building functional applications, and validating solutions through testing and experimentation.
 
 ### Areas of Interest
 
@@ -43,20 +43,22 @@ Working on healthcare data platforms and the development of a mobile cognitive t
 
 #### 🧠 Brain Oasis — Mobile Cognitive Training Platform
 
-Contributed to the development and pre-release testing of a mobile platform integrating cognitive training games with user account and payment functionality.
+Contributed to the development and pre-release testing of a mobile platform integrating cognitive training games, user authentication, and payment functionality.
 
 **Key Contributions**
-- Used **Claude Code** throughout application development to analyze existing code, implement features, troubleshoot issues, and support iterative testing
-- Developed and tested email-based registration, login, password reset, and Kakao social login integration
-- Integrated Google Play Billing for subscription and point-based purchase functionality
+- Leveraged **Claude Code** throughout application development for code analysis, feature implementation, debugging, and iterative improvements
+- Worked on email registration, login, password reset, and Kakao social login integration
+- Integrated Google Play Billing for subscription and point-based purchases
 - Tested Unity WebGL game builds and investigated game execution issues
 - Addressed mobile UI and screen-resolution compatibility issues
 - Set up AWS EC2 application infrastructure and Amazon RDS database resources
-- Supported the transition from a local development environment to a cloud-based operational environment
+- Supported the migration from a local development environment to a cloud-based operational environment
+- Deployed and tested Unity WebGL game builds using AWS Amplify
+- Investigated SMS verification integration issues involving SOLAPI and sender-number approval
 - Performed internal testing through Google Play Console, including authentication, payment, and game execution flows
 
 **Technologies & Tools**  
-Claude Code · Unity WebGL · AWS EC2 · Amazon RDS · Google Play Console · Google Play Billing · REST APIs
+Claude Code · Unity WebGL · AWS EC2 · Amazon RDS · AWS Amplify · Google Play Console · Google Play Billing · REST APIs
 
 *The platform was undergoing pre-release testing as of October 2026. Company source code and internal implementation details are not publicly shared.*
 
@@ -183,20 +185,63 @@ ACM BCB Companion 2025
 
 ## 🛠️ Technical Skills
 
-### Programming & Development
-`Python` · `SQL` · `JavaScript` · `Java` · `React Native` · `React` · `Node.js` · `Express.js` · `REST APIs`
+### 💻 Programming Languages
 
-### AI & Machine Learning
-`Claude Code` · `Scikit-learn` · `PyTorch` · `Random Forest` · `CNN` · `XGBoost` · `SMOTE`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Data & Analytics
-`Pandas` · `NumPy` · `Matplotlib` · `Tableau` · `Jupyter Notebook` · `Data Modeling` · `Data Visualization`
+### 🌐 Software & Full-Stack Development
 
-### Databases & Cloud
-`PostgreSQL` · `MySQL` · `SQLite` · `Amazon EC2` · `Amazon RDS` · `AWS Amplify`
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
 
-### Tools & Platforms
-`Git` · `GitHub` · `Linux` · `Unity WebGL` · `Google Play Console` · `Google Play Billing`
+### 🤖 AI & Machine Learning
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![CNN](https://img.shields.io/badge/CNN-6A5ACD?style=flat-square)
+![SMOTE](https://img.shields.io/badge/SMOTE-795548?style=flat-square)
+
+### ✨ AI Development Tools
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+### ☁️ Cloud & Infrastructure
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
+![Amplify](https://img.shields.io/badge/AWS_Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+### 📊 Data Analytics & Visualization
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### 🧰 Development Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity_WebGL-000000?style=flat-square&logo=unity&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play_Console-414141?style=flat-square&logo=googleplay&logoColor=white)
 
 ---
 
