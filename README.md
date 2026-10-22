@@ -1,186 +1,226 @@
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Namkyeong%20Kim&fontSize=40)
 
 # Hi, I'm Namkyeong Kim 👋
 
-Computer Science Senior at **Arkansas State University**
+🎓 **B.S. in Computer Science | Arkansas State University**
 
-Focused on **Data Analytics, Business Intelligence, Machine Learning, and Data-Driven Decision Making**
+💻 **Software Engineering · AI-Assisted Development · Machine Learning · Data Engineering · Cloud Infrastructure**
 
-📄 Published Author – **ACM BCB 2025**  
+📄 **Published Research — ACM BCB Companion 2025**
 
 ---
 
 ## 👩‍💻 About Me
 
-Computer Science senior with experience in **data analytics, business intelligence, machine learning, e-commerce analytics, healthcare analytics, and full-stack application development**.
+I'm a Computer Science graduate with experience spanning software development, machine learning research, data analytics, and cloud infrastructure.
 
-Experienced in analyzing large datasets, developing predictive models, building interactive dashboards, and creating data-driven applications using **Python, SQL, Tableau, Pandas, Scikit-learn, and machine learning techniques**.
+My work ranges from developing mobile applications and analyzing large datasets to supporting the development and deployment of production-oriented services.
 
-My work includes healthcare analytics, antimicrobial resistance prediction research, e-commerce analytics, dashboard development, and full-stack application design. I enjoy transforming complex datasets into actionable insights and supporting data-driven decision making through analytics and visualization.
+At **Bredis Healthcare**, I work with AI-assisted development tools such as **Claude Code** to build and test features for a mobile cognitive training platform. My experience includes user authentication, subscription and in-app purchase integration, Unity WebGL testing, and AWS infrastructure setup.
 
-### Interests
+I have also worked on clinical research data standardization and database schema design, as well as machine learning research involving antimicrobial resistance prediction.
 
-- Data Analytics
-- Business Intelligence
-- E-Commerce Analytics
-- Machine Learning
-- Healthcare Analytics
-- Data Visualization
+I enjoy understanding how systems work, identifying technical problems, and turning ideas into functional, testable solutions.
+
+### Areas of Interest
+
+- Software Engineering & Application Development
+- AI-Assisted Development & AI-Native Workflows
+- Machine Learning & Predictive Analytics
+- Data Engineering & Database Design
+- Cloud Infrastructure & Service Deployment
+- Data Analytics & Visualization
+
+---
+
+## 💼 Professional Experience
+
+### Digital Platform Team Intern | Bredis Healthcare
+**July 2026 – Present**
+
+Working on healthcare data platforms and the development of a mobile cognitive training service.
+
+#### 🧠 Brain Oasis — Mobile Cognitive Training Platform
+
+Contributed to the development and pre-release testing of a mobile platform integrating cognitive training games with user account and payment functionality.
+
+**Key Contributions**
+- Used **Claude Code** throughout application development to analyze existing code, implement features, troubleshoot issues, and support iterative testing
+- Developed and tested email-based registration, login, password reset, and Kakao social login integration
+- Integrated Google Play Billing for subscription and point-based purchase functionality
+- Tested Unity WebGL game builds and investigated game execution issues
+- Addressed mobile UI and screen-resolution compatibility issues
+- Set up AWS EC2 application infrastructure and Amazon RDS database resources
+- Supported the transition from a local development environment to a cloud-based operational environment
+- Performed internal testing through Google Play Console, including authentication, payment, and game execution flows
+
+**Technologies & Tools**  
+Claude Code · Unity WebGL · AWS EC2 · Amazon RDS · Google Play Console · Google Play Billing · REST APIs
+
+*The platform was undergoing pre-release testing as of October 2026. Company source code and internal implementation details are not publicly shared.*
+
+#### 📊 Alzheimer's Disease Cohort Data Platform
+
+Supported data organization and database design for an AI-based dementia prediction platform.
+
+**Key Contributions**
+- Researched clinical, cognitive, and biomarker variables across major Alzheimer's disease cohorts, including ADNI, KBASE, AIBL, and BioFINDER
+- Organized approximately **770 research data items**
+- Compared cohort characteristics, diagnostic groups, sample sizes, statistical measurements, and data definitions
+- Standardized variable names and measurement units across studies
+- Designed a common database schema covering cohort information, diagnosis, parameters, statistics, references, and related metadata
+- Prepared structured data specifications for the platform development process
+
+**Focus Areas**  
+Data Standardization · Database Schema Design · Clinical Data · Data Documentation
 
 ---
 
 ## 🚀 Featured Projects
 
-### E-Commerce Sales Analytics Dashboard
+### 1. Smart Pantry Platform
+**Senior Capstone Project | Arkansas State University**
 
-E-commerce analytics project analyzing over **530,000 online retail transactions** using SQL, Python, and Tableau.
+A team-developed pantry and recipe management application designed to help users track ingredients, explore recipes, and manage shopping lists.
+
+**My Contributions**
+- Developed mobile application screens and navigation using **React Native (Expo)**
+- Implemented functionality connecting pantry ingredients with recipe requirements
+- Built features to identify missing ingredients and add them to shopping lists
+- Worked on shopping list editing, recipe favorites, and recently viewed recipes
+- Implemented local data persistence using AsyncStorage
+- Worked on authentication-related application behavior, including JWT session handling
+- Contributed React-based components to an administrative dashboard
+
+**Team Project Scope**
+- Pantry and recipe management
+- Shared household pantry functionality
+- Barcode-related workflows
+- Backend APIs and PostgreSQL integration
+- Dashboard and analytics components
+
+**Tech Stack**  
+React Native · Expo · React · JavaScript · Node.js · Express.js · PostgreSQL · REST APIs
+
+🔗 [View Project](https://github.com/namkyeongkim/smart-pantry-platform)
+
+---
+
+### 2. Healthcare Readmission Risk Analysis
+
+A data analytics and machine learning project examining factors associated with 30-day hospital readmissions.
 
 **Highlights**
-- Analyzed **530,104 retail transactions**
-- Generated **$10.67M revenue insights**
+- Analyzed **11,001 hospitalization records**
+- Examined readmission risk factors including age, Charlson Comorbidity Index, ICU admission, chronic kidney disease, and length of stay
+- Developed Tableau dashboards for KPIs, risk factors, and financial impact analysis
+- Performed exploratory data analysis using Python, Pandas, and Matplotlib
+- Conducted SQL-based analysis using SQLite
+- Built machine learning models for readmission risk prediction and explored class imbalance handling
+
+**Tech Stack**  
+Python · SQL · SQLite · Tableau · Pandas · Matplotlib · Scikit-learn
+
+🔗 [View Project](https://github.com/namkyeongkim/healthcare-readmission-analysis)
+
+---
+
+### 3. E-Commerce Sales Analytics Dashboard
+
+A retail analytics project exploring sales performance, customer behavior, and product-level trends.
+
+**Highlights**
+- Analyzed **530,104 online retail transactions**
+- Examined approximately **$10.67M in transaction revenue**
 - Identified top-performing products and international markets
-- Built interactive Tableau dashboards for KPI tracking and sales analysis
-- Performed SQL-based revenue, customer, and product analytics
+- Built interactive Tableau dashboards for sales KPIs and performance analysis
+- Performed SQL-based revenue, customer, and product analysis
 - Conducted exploratory data analysis using Python and Pandas
 
 **Tech Stack**  
 Python · SQL · Tableau · Pandas · NumPy · Jupyter Notebook
 
-🔗 https://github.com/namkyeongkim/ecommerce-analytics-dashboard
+🔗 [View Project](https://github.com/namkyeongkim/ecommerce-analytics-dashboard)
 
 ---
 
-### Healthcare Readmission Risk Analysis
+## 🔬 Research & Publications
 
-Healthcare analytics project analyzing factors associated with 30-day hospital readmissions using Python, SQL, Tableau, and machine learning.
+### Antimicrobial Resistance (AMR) Phenotype Prediction
+**Undergraduate Research | Arkansas State University**
 
-**Highlights**
-- Analyzed **11,001 hospitalization records**
-- Identified key readmission risk factors including age, Charlson Comorbidity Index, ICU admission, chronic kidney disease, and length of stay
-- Built an enhanced Tableau dashboard with KPI cards, risk factor analysis, and financial impact metrics
-- Performed exploratory data analysis using Python, Pandas, and Matplotlib
-- Conducted SQL-based healthcare analytics using SQLite
-- Developed machine learning models to predict 30-day readmission risk and addressed class imbalance
+Participated in machine learning research aimed at improving antimicrobial resistance phenotype prediction, including challenges involving limited data, class imbalance, and unseen bacterial samples.
 
-**Tech Stack**  
-Python · SQL · Tableau · Pandas · Matplotlib · Scikit-learn · SQLite
+The research involved more than **500,000 genomic records**.
 
-🔗 https://github.com/namkyeongkim/healthcare-readmission-analysis
+**Research Activities**
+- Analyzed k-mer-based genomic feature representations
+- Compared machine learning and deep learning approaches, including Random Forest and 1D CNN
+- Evaluated SMOTE-based data augmentation
+- Analyzed predictive performance using classification metrics
+- Contributed to interpreting experimental results and assessing data augmentation effects
 
----
+**Selected Research Result**
 
-### Smart Pantry Platform
+For an E. coli–SXT CNN experiment, accuracy increased from **73.83% to 96.68%** after adding 600 synthetic samples.
 
-Full-stack pantry and recipe management platform integrating analytics dashboards, recommendation workflows, and real-time inventory synchronization.
+*This result represents a specific research experiment, not overall performance across all bacterial species or antibiotic combinations.*
 
-**Features**
-- Pantry inventory tracking
-- Recipe recommendation workflows
-- Shared household pantry management
-- Automatic ingredient deduction after cooking
-- Barcode scanning integration
-- Auto-generated shopping lists
-- Analytics dashboard and visualization modules
-- Real-time pantry synchronization
+**Publication**
 
-**Tech Stack**  
-React Native (Expo) · React · Node.js · Express.js · PostgreSQL · Spoonacular API
+*Improving Antimicrobial Resistance (AMR) Phenotype Prediction for Unseen Bacteria through Data Augmentation and Machine Learning*
 
-🔗 https://github.com/namkyeongkim/smart-pantry-platform
+ACM BCB Companion 2025
+
+🔗 [View Publication](https://doi.org/10.1145/3768322.3769015)
+
+**Research Recognition**
+- Create@STATE 2025 — Third Place
+- Posters at the Capitol 2025 — Research Presentation
 
 ---
 
-## 🔬 Research
+## 🛠️ Technical Skills
 
-### Antimicrobial Resistance (AMR) Prediction using Machine Learning
+### Programming & Development
+`Python` · `SQL` · `JavaScript` · `Java` · `React Native` · `React` · `Node.js` · `Express.js` · `REST APIs`
 
-Conducted research on predicting antimicrobial resistance phenotypes from genomic data using machine learning and deep learning techniques.
+### AI & Machine Learning
+`Claude Code` · `Scikit-learn` · `PyTorch` · `Random Forest` · `CNN` · `XGBoost` · `SMOTE`
 
-Processed and analyzed **500,000+ genomic records** for antimicrobial resistance prediction workflows.
+### Data & Analytics
+`Pandas` · `NumPy` · `Matplotlib` · `Tableau` · `Jupyter Notebook` · `Data Modeling` · `Data Visualization`
 
-**Key Components**
-- k-mer based genomic feature extraction
-- Tree-based ensemble models (Random Forest, Extra Trees, XGBoost)
-- Deep learning with 1D Convolutional Neural Networks (CNN)
-- Data augmentation using SMOTE
-- Hyperparameter optimization and model evaluation
+### Databases & Cloud
+`PostgreSQL` · `MySQL` · `SQLite` · `Amazon EC2` · `Amazon RDS` · `AWS Amplify`
 
-📄 **Published at ACM BCB Companion 2025**
-
-🔗 https://doi.org/10.1145/3768322.3769015
-
----
-
-## 🧠 Tech Stack
-
-### Data Analytics & Business Intelligence
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-
-### Machine Learning & Predictive Analytics
-
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-
-### Databases
-
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-
-### Programming Languages
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
-
-### Full-Stack Development
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=React&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=Expo&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-
-### Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-FA0F00?style=flat-square&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square"/>
+### Tools & Platforms
+`Git` · `GitHub` · `Linux` · `Unity WebGL` · `Google Play Console` · `Google Play Billing`
 
 ---
 
 ## 📜 Certifications
 
-- SQLD (SQL Developer)
-- ADsP (Advanced Data Analytics Semi-Professional)
+- **SQLD** — SQL Developer
+- **ADsP** — Advanced Data Analytics Semi-Professional
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Exploring
 
-- Advanced SQL & Query Optimization
-- Tableau Dashboard Design
-- Customer Analytics & CRM
-- Predictive Analytics
-- Cloud Data Analytics (AWS)
+- AI-Native Software Development
+- Software Architecture & Backend Systems
+- Cloud Infrastructure & Deployment
+- Data Engineering & Database Optimization
+- Applied Machine Learning
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-**LinkedIn**  
-https://www.linkedin.com/in/namkyeong-kim-7a25aa3b6
+💼 **LinkedIn:** [Namkyeong Kim](https://www.linkedin.com/in/namkyeong-kim-7a25aa3b6)
 
-**Email**  
-namkyeong0319@gmail.com
+📧 **Email:** nknkkim0319@gmail.com
 
 ![Profile views](https://komarev.com/ghpvc/?username=namkyeongkim)
