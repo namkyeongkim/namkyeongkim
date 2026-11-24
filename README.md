@@ -1,11 +1,17 @@
 
+<div align="center">
+
+[🇰🇷 한국어](./README.ko.md) | [🇺🇸 English](./README.md)
+
+</div>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Namkyeong%20Kim&fontSize=40)
 
 # Hi, I'm Namkyeong Kim 👋
 
 🎓 **B.S. in Computer Science | Arkansas State University**
 
-💻 **Software Engineering · AI-Assisted Development · Machine Learning · Data Engineering · Cloud Infrastructure**
+💻 **Software Engineering | AI-Assisted Development | Machine Learning | Data Engineering | Cloud Infrastructure**
 
 📄 **Published Research — ACM BCB Companion 2025**
 
@@ -13,15 +19,15 @@
 
 ## 👩‍💻 About Me
 
-I'm a Computer Science graduate with experience spanning software development, machine learning research, data analytics, and cloud infrastructure.
+I'm a Computer Science graduate with hands-on experience in software development, machine learning research, data analytics, and cloud infrastructure.
 
-My experience includes developing mobile applications, analyzing large datasets, designing database structures, and supporting cloud-based service deployment.
+At **Bredis Healthcare**, I work on mobile application development and healthcare data platforms. I have developed key features for Brain Oasis, an Android cognitive training application, integrated existing Unity-based training games, and worked on production release and post-launch updates using AI-assisted development tools such as Claude Code.
 
-At **Bredis Healthcare**, I use AI-assisted development tools such as **Claude Code** throughout the development of a mobile cognitive training platform. My work includes authentication, in-app purchases, Unity WebGL integration testing, and AWS infrastructure setup.
+I have also worked on Alzheimer's disease research data standardization and database schema design.
 
-I have also worked on Alzheimer's disease research data standardization and database schema design, alongside machine learning research in antimicrobial resistance prediction.
+In undergraduate research, I used Python to preprocess genomic data, implement machine learning models, conduct data augmentation experiments, and evaluate predictive performance. The research resulted in a co-first-author publication at ACM BCB Companion 2025.
 
-I enjoy solving technical problems, building functional applications, and validating solutions through testing and experimentation.
+I enjoy solving technical problems, improving user experiences, and validating solutions through testing and experimentation.
 
 ### Areas of Interest
 
@@ -37,73 +43,86 @@ I enjoy solving technical problems, building functional applications, and valida
 ## 💼 Professional Experience
 
 ### Digital Platform Team Intern | Bredis Healthcare
+
 **July 2026 – Present**
 
-Working on healthcare data platforms and the development of a mobile cognitive training service.
+Working on mobile application development, cloud-based services, and healthcare data platforms.
 
-#### 🧠 Brain Oasis — Mobile Cognitive Training Platform
+### 🧠 Brain Oasis — Mobile Cognitive Training Platform
 
-Contributed to the development and pre-release testing of a mobile platform integrating cognitive training games, user authentication, and payment functionality.
-
-**Key Contributions**
-- Leveraged **Claude Code** throughout application development for code analysis, feature implementation, debugging, and iterative improvements
-- Worked on email registration, login, password reset, and Kakao social login integration
-- Integrated Google Play Billing for subscription and point-based purchases
-- Tested Unity WebGL game builds and investigated game execution issues
-- Addressed mobile UI and screen-resolution compatibility issues
-- Set up AWS EC2 application infrastructure and Amazon RDS database resources
-- Supported the migration from a local development environment to a cloud-based operational environment
-- Deployed and tested Unity WebGL game builds using AWS Amplify
-- Investigated SMS verification integration issues involving SOLAPI and sender-number approval
-- Performed internal testing through Google Play Console, including authentication, payment, and game execution flows
-
-**Technologies & Tools**  
-Claude Code · Unity WebGL · AWS EC2 · Amazon RDS · AWS Amplify · Google Play Console · Google Play Billing · REST APIs
-
-*The platform was undergoing pre-release testing as of October 2026. Company source code and internal implementation details are not publicly shared.*
-
-#### 📊 Alzheimer's Disease Cohort Data Platform
-
-Supported data organization and database design for an AI-based dementia prediction platform.
+Developed key features for an Android cognitive training application, integrated existing Unity-based training games, and worked on its production release and post-launch updates.
 
 **Key Contributions**
-- Researched clinical, cognitive, and biomarker variables across major Alzheimer's disease cohorts, including ADNI, KBASE, AIBL, and BioFINDER
-- Organized approximately **770 research data items**
-- Compared cohort characteristics, diagnostic groups, sample sizes, statistical measurements, and data definitions
-- Standardized variable names and measurement units across studies
-- Designed a common database schema covering cohort information, diagnosis, parameters, statistics, references, and related metadata
-- Prepared structured data specifications for the platform development process
 
-**Focus Areas**  
-Data Standardization · Database Schema Design · Clinical Data · Data Documentation
+- Used Claude Code to analyze existing code, implement features, debug issues, and improve application functionality.
+- Implemented email registration, login, password reset, and Kakao social login.
+- Integrated Google Play Billing for monthly and annual subscriptions and point-based purchases.
+- Tested authentication, payment states, and content access flows.
+- Modified UI layouts and screen resolutions of existing Unity-based training games for mobile compatibility.
+- Tested Unity WebGL content and investigated mobile integration and execution issues.
+- Deployed and tested Unity WebGL game content using AWS Amplify.
+- Worked on AWS EC2 and Amazon RDS infrastructure configuration and service integration.
+- Investigated SMS verification integration issues involving SOLAPI and sender-number approval.
+- Conducted internal testing through Google Play Console, including authentication, payment, and game execution.
+- Supported the Android production release and deployed subsequent updates following bug fixes and feature improvements.
+
+**Technologies & Tools**
+
+Claude Code | Unity WebGL | AWS EC2 | Amazon RDS | AWS Amplify | Google Play Console | Google Play Billing | REST APIs
+
+**Release Status:** Released on Google Play, with post-launch updates deployed to the production track.
+
+*Company source code and internal implementation details are not publicly shared.*
+
+### 📊 Alzheimer's Disease Cohort Data Platform
+
+Supported data standardization and database schema design for an AI-based dementia prediction platform.
+
+**Key Contributions**
+
+- Reviewed clinical, cognitive, and biomarker variables across ADNI, KBASE, AIBL, and BioFINDER.
+- Organized approximately 770 research data items.
+- Compared cohort characteristics, diagnostic groups, sample sizes, statistical measurements, and data definitions.
+- Standardized variable names and measurement units across studies.
+- Worked on a common database schema covering cohort information, diagnosis, parameters, statistics, references, and related metadata.
+- Prepared structured data specifications for platform development.
+
+**Focus Areas**
+
+Data Standardization | Database Schema Design | Clinical Data | Data Documentation
 
 ---
 
 ## 🚀 Featured Projects
 
-### 1. Smart Pantry Platform
+### 1. Smart Pantry Manager
+
 **Senior Capstone Project | Arkansas State University**
 
-A team-developed pantry and recipe management application designed to help users track ingredients, explore recipes, and manage shopping lists.
+Developed a pantry and recipe management mobile application as part of a four-member team, helping users manage ingredients, explore recipes, and organize shopping lists.
 
 **My Contributions**
-- Developed mobile application screens and navigation using **React Native (Expo)**
-- Implemented functionality connecting pantry ingredients with recipe requirements
-- Built features to identify missing ingredients and add them to shopping lists
-- Worked on shopping list editing, recipe favorites, and recently viewed recipes
-- Implemented local data persistence using AsyncStorage
-- Worked on authentication-related application behavior, including JWT session handling
-- Contributed React-based components to an administrative dashboard
+
+- Developed mobile application screens and navigation using React Native (Expo).
+- Implemented functionality connecting pantry ingredients with recipe requirements.
+- Built features to identify missing ingredients and add them to shopping lists.
+- Developed shopping list management features, including adding, editing, and deleting items.
+- Implemented recipe favorites and recently cooked recipe features.
+- Used AsyncStorage for local data persistence and offline access.
+- Implemented JWT-based automatic login and token expiration handling.
+- Developed React-based administrative dashboard components.
 
 **Team Project Scope**
+
 - Pantry and recipe management
 - Shared household pantry functionality
 - Barcode-related workflows
 - Backend APIs and PostgreSQL integration
 - Dashboard and analytics components
 
-**Tech Stack**  
-React Native · Expo · React · JavaScript · Node.js · Express.js · PostgreSQL · REST APIs
+**Tech Stack**
+
+React Native | Expo | React | JavaScript | Node.js | Express.js | PostgreSQL | REST APIs
 
 🔗 [View Project](https://github.com/namkyeongkim/smart-pantry-platform)
 
@@ -114,15 +133,17 @@ React Native · Expo · React · JavaScript · Node.js · Express.js · PostgreS
 A data analytics and machine learning project examining factors associated with 30-day hospital readmissions.
 
 **Highlights**
-- Analyzed **11,001 hospitalization records**
-- Examined readmission risk factors including age, Charlson Comorbidity Index, ICU admission, chronic kidney disease, and length of stay
-- Developed Tableau dashboards for KPIs, risk factors, and financial impact analysis
-- Performed exploratory data analysis using Python, Pandas, and Matplotlib
-- Conducted SQL-based analysis using SQLite
-- Built machine learning models for readmission risk prediction and explored class imbalance handling
 
-**Tech Stack**  
-Python · SQL · SQLite · Tableau · Pandas · Matplotlib · Scikit-learn
+- Analyzed 11,001 hospitalization records.
+- Examined readmission risk factors including age, Charlson Comorbidity Index, ICU admission, chronic kidney disease, and length of stay.
+- Developed Tableau dashboards for KPIs, risk factors, and financial impact analysis.
+- Performed exploratory data analysis using Python, Pandas, and Matplotlib.
+- Conducted SQL-based analysis using SQLite.
+- Built machine learning models for readmission risk prediction and explored class imbalance handling.
+
+**Tech Stack**
+
+Python | SQL | SQLite | Tableau | Pandas | Matplotlib | Scikit-learn
 
 🔗 [View Project](https://github.com/namkyeongkim/healthcare-readmission-analysis)
 
@@ -133,15 +154,17 @@ Python · SQL · SQLite · Tableau · Pandas · Matplotlib · Scikit-learn
 A retail analytics project exploring sales performance, customer behavior, and product-level trends.
 
 **Highlights**
-- Analyzed **530,104 online retail transactions**
-- Examined approximately **$10.67M in transaction revenue**
-- Identified top-performing products and international markets
-- Built interactive Tableau dashboards for sales KPIs and performance analysis
-- Performed SQL-based revenue, customer, and product analysis
-- Conducted exploratory data analysis using Python and Pandas
 
-**Tech Stack**  
-Python · SQL · Tableau · Pandas · NumPy · Jupyter Notebook
+- Analyzed 530,104 online retail transactions.
+- Examined approximately $10.67M in transaction revenue.
+- Identified top-performing products and international markets.
+- Built interactive Tableau dashboards for sales KPIs and performance analysis.
+- Performed SQL-based revenue, customer, and product analysis.
+- Conducted exploratory data analysis using Python and Pandas.
+
+**Tech Stack**
+
+Python | SQL | Tableau | Pandas | NumPy | Jupyter Notebook
 
 🔗 [View Project](https://github.com/namkyeongkim/ecommerce-analytics-dashboard)
 
@@ -149,35 +172,39 @@ Python · SQL · Tableau · Pandas · NumPy · Jupyter Notebook
 
 ## 🔬 Research & Publications
 
-### Antimicrobial Resistance (AMR) Phenotype Prediction
+### Antimicrobial Resistance (AMR) Prediction Using Machine Learning
+
 **Undergraduate Research | Arkansas State University**
 
-Participated in machine learning research aimed at improving antimicrobial resistance phenotype prediction, including challenges involving limited data, class imbalance, and unseen bacterial samples.
+Conducted machine learning research using genomic data to improve antimicrobial resistance prediction, focusing on data scarcity, class imbalance, and model performance.
 
 The research involved more than **500,000 genomic records**.
 
-**Research Activities**
-- Analyzed k-mer-based genomic feature representations
-- Compared machine learning and deep learning approaches, including Random Forest and 1D CNN
-- Evaluated SMOTE-based data augmentation
-- Analyzed predictive performance using classification metrics
-- Contributed to interpreting experimental results and assessing data augmentation effects
+**My Contributions**
+
+- Preprocessed genomic data using Python and extracted k-mer-based features.
+- Implemented and trained machine learning and deep learning models, including Random Forest and 1D CNN.
+- Applied SMOTE-based data augmentation to address limited and imbalanced training data.
+- Conducted experiments comparing model performance under different data augmentation conditions.
+- Evaluated prediction performance using accuracy, precision, recall, and F1-score.
+- Analyzed the effects of synthetic training data on model performance.
 
 **Selected Research Result**
 
-For an E. coli–SXT CNN experiment, accuracy increased from **73.83% to 96.68%** after adding 600 synthetic samples.
+In a specific E. coli–SXT CNN experiment, accuracy increased from **73.83% to 96.68%** after adding 600 synthetic samples.
 
-*This result represents a specific research experiment, not overall performance across all bacterial species or antibiotic combinations.*
+*This result represents a specific experimental setting, not overall performance across all bacterial species or antibiotic combinations.*
 
 **Publication**
 
 *Improving Antimicrobial Resistance (AMR) Phenotype Prediction for Unseen Bacteria through Data Augmentation and Machine Learning*
 
-ACM BCB Companion 2025
+**ACM BCB Companion 2025 — Co-first author**
 
 🔗 [View Publication](https://doi.org/10.1145/3768322.3769015)
 
 **Research Recognition**
+
 - Create@STATE 2025 — Third Place
 - Posters at the Capitol 2025 — Research Presentation
 
