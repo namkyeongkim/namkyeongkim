@@ -50,7 +50,7 @@ Working on mobile application development, cloud-based services, and healthcare 
 
 ### 🧠 Brain Oasis — Mobile Cognitive Training Platform
 
-Developed key features for an Android cognitive training application, integrated existing Unity-based training games, and worked on its production release and post-launch updates.
+Developed key features for an Android application offering focus training games, integrated existing Unity-based game content, and worked on its production release and post-launch updates.
 
 **Key Contributions**
 
